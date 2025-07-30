@@ -1,0 +1,6 @@
+# Core libraries for the agentic summarizer
+langchain
+langchain-google-genai
+langchain-groq
+langchain-openai
+pydantic
